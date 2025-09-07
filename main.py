@@ -1,3 +1,13 @@
+"""
+This script demonstrates basic Python functions:
+- greet a user
+- compute factorial of a number
+- generate a Fibonacci series
+- check if a number is prime
+
+It is used for practicing Git, GitHub, and pylint workflows.
+"""
+
 def greet(name):
     """Return a greeting message."""
     return f"Hello, {name}!"
