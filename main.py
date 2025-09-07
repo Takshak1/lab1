@@ -7,6 +7,7 @@ This script demonstrates basic Python functions:
 
 It is used for practicing Git, GitHub, and pylint workflows.
 """
+# This is a test to trigger GitHub Actions
 
 def greet(name):
     """Return a greeting message."""
